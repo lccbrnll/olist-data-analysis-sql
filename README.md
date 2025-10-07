@@ -184,7 +184,7 @@ This project consists of an exploratory data analysis (EDA) of the "Brazilian E-
     The overall average delivery time is **12 days**, which is relatively long by current e-commerce standards. More critically, the state-level analysis reveals a major logistical disparity across Brazil, with Northern and Northeastern states facing much longer delivery times. Improving logistical efficiency is crucial for customer satisfaction and retention in these regions.
 
     <div align="center">
-      <img src="images/Average_Delivery_Time_by_State.png" alt="Bar chart of average delivery time by state" width="80%"/>
+      <img src="images/Average_Delivery_Time_State.png" alt="Bar chart of average delivery time by state" width="80%"/>
     </div>
 
 ---
@@ -418,7 +418,7 @@ Este projeto consiste em uma análise exploratória de dados (AED) do dataset p�
     O tempo médio geral de entrega é de 12 dias, um prazo relativamente longo para os padrões atuais do e-commerce. Mais criticamente, a análise por estado revela uma grande disparidade logística pelo Brasil, com estados do Norte e Nordeste apresentando prazos muito superiores. Melhorar a eficiência logística é um ponto crucial para a satisfação e retenção de clientes nessas regiões.
 
     <div align="center">
-      <img src="images/Tempo_médio_de_entrega_por_estado.png" alt="Gráfico de barras do tempo médio de entrega por estado" width="80%"/>
+      <img src="images/Tempo_médio_de_entrega_estado.png" alt="Gráfico de barras do tempo médio de entrega por estado" width="80%"/>
     </div>
 
 
